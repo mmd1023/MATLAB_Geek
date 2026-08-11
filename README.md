@@ -2,6 +2,8 @@
 
 > **Learn MATLAB by solving real problems, not by memorizing commands.**
 
+![1786447338269](image/README/1786447338269.png)
+
 **MATLAB Geek Bootcamp** is a hands-on course built to teach MATLAB from the ground up and gradually take you toward engineering computation and simulation.
 
 I'm **mmd**, the instructor of the course, and the bootcamp is organized by **ElectroGeek** ⚡
