@@ -83,3 +83,11 @@ x = A\[5; 1];            % Solve A*x = b
 % This is a comment
 help plot                % Help in Command Window
 doc plot                 % Open full documentation
+
+
+% IO
+x = input(""); % Number / Matrix / Vector Input
+name = input("Enter your name: ","s"); % Text Input
+x = 10;
+disp(x) % Display
+fprintf("Value = %.2f\n",pi); % Print in Format

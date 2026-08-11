@@ -248,3 +248,21 @@ help plot
 
 % Help - Documentation
 doc plot
+
+
+% Number / Matrix / Vector Input
+x = input("");
+A = input("Enter a matrix: ");
+v = input("Enter a vector: ");
+% Text Input
+name = input("Enter your name: ","s");
+
+% Display
+x = 10;
+disp(x)
+name = "MATLAB";
+disp(name)
+
+% Print in Format
+fprintf("Value = %.2f\n",pi);
+fprintf("x = %d\n",10);
