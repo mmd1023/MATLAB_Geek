@@ -1,4 +1,6 @@
-% MATLAB Geek Bootcamp - Week 0
+% @ElectroGeek255
+% MATLAB Geek summer bootcamp | 2026
+% Week 0
 % Content Summary
 
 % Basic Math

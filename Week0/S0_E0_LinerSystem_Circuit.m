@@ -1,5 +1,7 @@
 % @ElectroGeek255
-% EXAMPLE 0,0 | Linear System
+% MATLAB Geek summer bootcamp | 2026
+% Week 0
+% EXAMPLE 0 | Linear System
 
 clear; clc;
 
